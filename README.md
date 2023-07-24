@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Why Did The Chicken**
 
 This is a simple game inspired by Crossy Road and implemented in Processing using Python. The objective of the game is to help the character cross as many roads as possible while avoiding dangerous obstacles.
